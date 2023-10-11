@@ -2,7 +2,9 @@
 
 Hey, my name is Krzysztof! You can call me Chris if it’s easier for you - Krzysztof is just 'Christopher' written in a funky Polish way. 😉
 
-I’m a robotics engineer who switched to IT after being involved in Industrial Internet of Things / Physics High Performance Computing projects in my previous work experience.
+I'm a DevOps Engineer currently working for AWS (Amazon Web Services) Professional Services. In my day to day work, I'm assisting AWS' largest customers on their cloud journey with both my technical (coding, architecting) and consulting skills.
+
+In my "past live", I've been a robotics engineer. I have switched to IT after being involved in Industrial Internet of Things / Physics High Performance Computing projects in my previous work experience.
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
