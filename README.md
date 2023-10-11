@@ -26,6 +26,7 @@ In my "past live", I've been a robotics engineer. I have switched to IT after be
 I'm a DevOps Consultant at [AWS](https://aws.amazon.com) [Professional Services](https://aws.amazon.com/professional-services/) Global Competency Center in Warsaw! 🇵🇱
 
 In my current role - as a DevOps engineer, I’m helping AWS’ largest customers on their journey to the cloud. Usually, I’m developing Serverless backend software (mostly in Python), designing Infrastructure as Code (CF & SAM / TF / CDK) with a strong accent on Security (preventive and reactive controls, DevSecOps).
+I believe my superpower is insisting on the highest standards in software development teams, both when it comes to the way of working (DevSecOps culture) and technical excellence - building production-ready, safe and operations-friendly software products.
 
 ---
 
