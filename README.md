@@ -15,17 +15,20 @@ In my "past live", I've been a robotics engineer. I have switched to IT after be
 
 📫 How to reach me:
 
-[![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=flat&logo=linkedin)](https://linkedin.com/in/3sztof/) [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=DM&color=blue&style=flat&logo=telegram)](https://t.me/k3sztof)
+[![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/3sztof/) [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=DM&color=blue&style=flat&logo=telegram&logoColor=white)](https://t.me/k3sztof)
 
-[![Work Email](https://img.shields.io/static/v1?label=Work&message=e-Mail&color=blue&style=flat&logo=amazonaws)](mailto://krzywil@amazon.com)  [![Private Email](https://img.shields.io/static/v1?label=Private&message=e-Mail&color=blue&style=flat&logo=protonmail)](mailto://3sztof@pm.me)
+[![Work Email](https://img.shields.io/static/v1?label=Work&message=e-Mail&color=blue&style=flat&logo=amazonaws&logoColor=white)](mailto://krzywil@amazon.com) [![Private Email](https://img.shields.io/static/v1?label=Private&message=e-Mail&color=blue&style=flat&logo=protonmail&logoColor=white)](mailto://3sztof@pm.me)
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2F3sztof.github.io%2F&label=%3Cslightly%20abandoned%3E%20Blog&logo=hugo&logoColor=white)](https://3sztof.github.io/)
 
 ---
 
 ## 💼 Work stuff
 
-I'm a DevOps Consultant at [AWS](https://aws.amazon.com) [Professional Services](https://aws.amazon.com/professional-services/) Global Competency Center in Warsaw! 🇵🇱
+I'm a DevOps Consultant at [AWS](https://aws.amazon.com) [Professional Services](https://aws.amazon.com/professional-services/) [Generative AI Innovation & Delivery Center](https://aws.amazon.com/ai/generative-ai/innovation-center/) in Warsaw! 🇵🇱
 
-In my current role - as a DevOps engineer, I’m helping AWS’ largest customers on their journey to the cloud. Usually, I’m developing Serverless backend software (mostly in Python), designing Infrastructure as Code (CF & SAM / TF / CDK) with a strong accent on Security (preventive and reactive controls, DevSecOps).
+In my current role - as a DevOps engineer, I’m helping AWS’ largest customers on their journey to the cloud. Most of my current projects revolve around generative AI (GenAI) and productionalization of AI based solutions to drive real business value. 
+Usually, I’m developing Serverless backend software (mostly in Python), building Kubernetes (EKS) clusters (inference, HPC), designing scalable Infrastructure as Code (CF & SAM / TF / CDK / Helm) with a strong accent on Security (preventive and reactive controls, DevSecOps).
 
 My superpower is insisting on the highest standards in software development teams. By highest standards, I mean both the way of working (DevSecOps culture) and technical excellence - building production-ready, safe and operations-friendly products.
 
