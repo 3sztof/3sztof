@@ -14,11 +14,11 @@ Hey, my name is Krzysztof! You can call me Chris if it's easier for you - Krzysz
 
 I'm a Senior DevOps Consultant at [AWS](https://aws.amazon.com) [Professional Services](https://aws.amazon.com/professional-services/) [Generative AI Innovation Center](https://aws.amazon.com/ai/generative-ai/innovation-center/) in Warsaw! 🇵🇱
 
-In my "past life", I've been a robotics engineer. I switched to IT after working on Industrial IoT and Physics High Performance Computing projects at Bosch Rexroth and (as a summer student) at the CERN LHCb experiment, where I received the [Moritz Karbach Prize](https://lhcb.web.cern.ch/Collaboration_prizes/Moritz_Karbach_summer_student_prize.html) for outstanding contributions.
-
 Over 5+ years at AWS ProServe I've delivered across automotive, finance, manufacturing, and telecommunications sectors. My work spans the full stack: one of the most advanced autonomous driving data frameworks running entirely in the cloud, GenAI productionalization and Path-to-Production assessments, MLOps pipelines on SageMaker, Kubernetes-based AI inference platforms, and large-scale cloud security automation. The scale varies wildly from project to project - from C-level strategy sessions to backends serving tens of thousands of users daily.
 
 Technically, I specialize in serverless backend development (Python), Kubernetes (EKS) for inference and HPC workloads, scalable Infrastructure as Code (CDK / Terraform / SAM), and DevSecOps - preventive and reactive security controls baked into delivery pipelines.
+
+In my "past life", I've been a robotics engineer. I switched to IT after working on Industrial IoT and Physics High Performance Computing projects at Bosch Rexroth and (as a summer student) at the CERN LHCb experiment, where I received the [Moritz Karbach Prize](https://lhcb.web.cern.ch/Collaboration_prizes/Moritz_Karbach_summer_student_prize.html) for outstanding contributions.
 
 My superpower is insisting on the highest standards across software development teams - both in how we work (DevSecOps culture) and what we build (production-ready, safe, operations-friendly products). I also genuinely enjoy community building and developer advocacy through [public speaking at tech conferences](#-public-speaking).
 
